@@ -76,6 +76,10 @@ nav span a {
   padding-top: 70px;
 }
 
+.online-store h2 {
+  margin-top: 5px;
+}
+
 .tea img {
   height: 200px;
   width: 300px;
@@ -105,4 +109,18 @@ nav span a {
   margin: 15px 20px;
   background-color: black;
   opacity: 1;
+}
+
+.contact {
+  height: 200px;
+}
+
+.contact h2 {
+  margin-top: 15px;
+}
+
+footer {
+  padding-left: 20px;
+  text-align: left;
+  margin-top: -25px;
 }
