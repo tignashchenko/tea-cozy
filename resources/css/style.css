@@ -68,3 +68,22 @@ nav span a {
 .mission-message h4 {
   margin-bottom: 10px;
 }
+
+.online-store {
+  width: 1000px;
+  height: 700px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+.tea img {
+  height: 200px;
+  width: 300px;
+  margin: 10px;
+}
+
+.tea span {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
